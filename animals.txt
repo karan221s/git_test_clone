@@ -2,3 +2,6 @@ tiger
 lion
 panther
 elephant
+dogs
+cats
+pythons
